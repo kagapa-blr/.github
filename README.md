@@ -1,4 +1,4 @@
-## Terms and Conditions for Copying Code, Repositories, and Sensitive Data
+## Terms and Conditions for Copying Code, Repositories, and Sensitive Data present in Kagapa organisation
 
 ### 1. Introduction
 
@@ -12,10 +12,11 @@ All code and documentation in this repository are licensed under the [kagapa]. Y
 
 - You are permitted to use, modify, and distribute the code within the terms of the provided license.
 - Proper attribution must be given to the original authors and contributors of the code.
+- **No Unauthorized Sharing:** You are not permitted to share the code or any part of the repository with anyone without explicit permission from the repository maintainers. This repository contains sensitive information that must be handled with care.
 
 ### 4. Copying and Forking Repositories
 
-- You are allowed to fork this repository, provided you comply with the repository’s license terms.
+- You are allowed to fork this repository, provided you comply with the repository’s license terms and obtain explicit permission from the repository maintainers.
 - If you make modifications, it is encouraged (though not required) that you contribute back to the original repository through pull requests.
 
 ### 5. Handling Sensitive Data

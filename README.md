@@ -6,7 +6,7 @@ By accessing or using this repository, you agree to comply with and be bound by 
 
 ### 2. License
 
-All code and documentation in this repository are licensed under the [specific license type, e.g., MIT License, Apache License 2.0]. You must adhere to the terms of the license provided.
+All code and documentation in this repository are licensed under the [kagapa]. You must adhere to the terms of the license provided.
 
 ### 3. Use of Code
 

@@ -1,9 +1,43 @@
-## ನಮಸ್ಕಾರ
+# ನಮಸ್ಕಾರ
 
-**ಕಗಪ - ಕನ್ನಡ ಗಣಕ ಪರಿಷತ್ತು**
+## ಕಗಪ -- ಕನ್ನಡ ಗಣಕ ಪರಿಷತ್ತು
 
-ಕನ್ನಡವನ್ನು ಗಣಕಗಳಲ್ಲಿ ಬಳಸುವುದರಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿರುವ ಆಸಕ್ತರ ಗುಂಪಿನಿಂದ 1997 ರಲ್ಲಿ ಕನ್ನಡ ಗಣಕ ಪರಿಷತ್ತು ಒಂದು ಸ್ವಯಂಸೇವಾ ಸಂಸ್ಥೆಯಾಗಿ ರೂಪುಗೊಂಡಿತು. ಸಂಸ್ಥೆಯು ವಿವಿಧ ಸಂಗತಿಗಳ ಗಣಕೀಕರಣದ ಸಂದರ್ಭದಲ್ಲಿ ಕನ್ನಡವನ್ನು ಬಳಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಅನೇಕ ಯೋಜನೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದೆ; ಅವುಗಳನ್ನು ಕಾರ್ಯರೂಪಕ್ಕೆ ತರಲು ಯತ್ನಿಸುತ್ತಿದೆ. ತುಂಬ ಮುಖ್ಯವಾಗಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಆಡಳಿತದ ಗಣಕೀಕರಣದ ಸಂದರ್ಭದಲ್ಲೂ ಕನ್ನಡ ಭಾಷೆಯೇ ಮಾಧ್ಯಮವಾಗಿ ಮುಂದುವರೆಯಬೇಕೆಂದು ಪ್ರತಿಪಾದಿಸಿದೆ. ಈ ದಿಸೆಯಲ್ಲಿ ಒಂದು ಕನ್ನಡ ತಂತ್ರಾಂಶವು (ಸಾಫ಼್ಟ್ ವೇರ್) ನೀಡಬೇಕಾದ ಕನಿಷ್ಠ ಸೌಲಭ್ಯಗಳನ್ನು ಗುರುತಿಸಿ ಅದನ್ನು ಪ್ರಚುರಪಡಿಸಿ ಆ ಬಗ್ಗೆ ಸರ್ಕಾರದ ಗಮನವನ್ನು ಸೆಳೆದಿದೆ. ಕನ್ನಡ ಗಣಕ ಪರಿಷತ್ತು ಗಣಕ ಮತ್ತು ಕನ್ನಡಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಲವು ಧ್ಯೇಯೋದ್ದೇಶಗಳನ್ನಿರಿಸಿಕೊಂಡಿದೆ. ಅವುಗಳನ್ನು ಈಡೇರಿಸಿಕೊಳ್ಳುವ ದಿಸೆಯಲ್ಲಿ ಕಾರ್ಯನಿರತವಾಗಿದೆ.
+ಕನ್ನಡ ಗಣಕ ಪರಿಷತ್ತು (ಕಗಪ) 1997ರಲ್ಲಿ ಗಣಕ ಕ್ಷೇತ್ರದಲ್ಲಿ ಕನ್ನಡವನ್ನು ಬಳಕೆ
+ಮಾಡಲು ಆಸಕ್ತಿ ಹೊಂದಿದ್ದ ಗಣಕಾಸಕ್ತರು, ತಜ್ಞರು ಮತ್ತು ಸೇವಾಭಾವಿಗಳಿಂದ ಸ್ಥಾಪಿತವಾದ
+ಸ್ವಯಂಸೇವಾ ಸಂಸ್ಥೆಯಾಗಿದೆ. ಕನ್ನಡದ ಗಣಕೀಕರಣಕ್ಕಾಗಿ ಅಗತ್ಯವಾದ ಮೂಲಸೌಕರ್ಯ, ಸಾಧನಗಳು
+ಮತ್ತು ತಂತ್ರಜ್ಞಾನಗಳ ಅಭಿವೃದ್ಧಿಯನ್ನು ಉತ್ತೇಜಿಸುವುದು ಸಂಸ್ಥೆಯ ಪ್ರಮುಖ ಧ್ಯೇಯ.
 
-**KAGAPA - Kannada Ganaka Parishat**
+ಕಗಪವು ಕನ್ನಡದಲ್ಲಿ ಗಣಕ ಬಳಕೆಯನ್ನು ವಿಸ್ತರಿಸಲು ಹಲವು ಯೋಜನೆಗಳನ್ನು ರೂಪಿಸಿ,
+ಅವನ್ನು ಕಾರ್ಯರೂಪಕ್ಕೆ ತರುವ ಪ್ರಯತ್ನದಲ್ಲಿದೆ. ವಿಶೇಷವಾಗಿ **ಕರ್ನಾಟಕ ಸರ್ಕಾರದ
+ಆಡಳಿತದಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ಗಣಕೀಕರಣ ಪ್ರಕ್ರಿಯೆಯಲ್ಲೂ ಕನ್ನಡವೇ ಪ್ರಾಥಮಿಕ ಭಾಷೆಯಾಗಿ
+ಮುಂದುವರೆಯಬೇಕು** ಎಂದು ಒತ್ತಿ ಹೇಳಿದೆ. ಈ ಉದ್ದೇಶಕ್ಕಾಗಿ ಕನ್ನಡ ತಂತ್ರಾಂಶಗಳಿಗೆ
+ಬೇಕಾಗಿರುವ ಕನಿಷ್ಠ ಸೌಲಭ್ಯಗಳನ್ನು ವಿವರಿಸಿ, ಅವನ್ನು ಸರ್ಕಾರ ಮತ್ತು ಸಾರ್ವಜನಿಕ
+ವಲಯದ ಗಮನಕ್ಕೆ ತಂದಿದೆ.
 
-Kannada Ganaka Parishat was formed in 1997 as a voluntary organization by a group of enthusiasts interested in using Kannada on computers. The organization has developed many projects to use Kannada during the computerization of various things; it is attempting to bring them to fruition. Importantly, it has emphasized that Kannada should continue to be the medium even during the computerization of the Karnataka government's administration. In this direction, it has identified the minimum facilities to be provided by Kannada software, published it, and brought it to the government's attention. Kannada Ganaka Parishat has some goals related to computers and Kannada and is working towards achieving them.
+ಕನ್ನಡ ಮತ್ತು ಗಣಕಶಾಸ್ತ್ರ ಕ್ಷೇತ್ರಗಳ ಅಭಿವೃದ್ಧಿಗೆ ಪ್ರೇರಣೆ ನೀಡುವ ಹಲವಾರು
+ಧ್ಯೇಯೋದ್ದೇಶಗಳನ್ನು ಹೊಂದಿರುವ ಕಗಪ, ತಂತ್ರಜ್ಞಾನದಲ್ಲಿ ಕನ್ನಡದ ಸ್ಥಾನವನ್ನು
+ಬಲಪಡಿಸುವ ದಿಸೆಯಲ್ಲಿ ನಿರಂತರವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ.
+
+------------------------------------------------------------------------
+
+## KAGAPA -- Kannada Ganaka Parishat
+
+Kannada Ganaka Parishat (KAGAPA), founded in 1997, is a voluntary
+organization established by computer enthusiasts, language experts, and
+technology supporters committed to promoting the use of Kannada in
+computing. The core mission of KAGAPA is to enable the development,
+standardization, and adoption of essential tools, technologies, and
+infrastructure required for effective computing in Kannada.
+
+The organization has conceptualized and initiated several projects aimed
+at strengthening Kannada usage in digital systems. Notably, KAGAPA has
+consistently emphasized that **Kannada must remain the primary medium in
+the ongoing computerization of the Karnataka government's
+administration**. To support this vision, it has identified and
+published the minimum essential features required in Kannada software
+and brought them to the attention of government bodies and related
+institutions.
+
+With clear goals focused on the advancement of Kannada in the field of
+computing, KAGAPA continues to work dedicatedly to ensure that the
+language holds a strong place in modern technology.
